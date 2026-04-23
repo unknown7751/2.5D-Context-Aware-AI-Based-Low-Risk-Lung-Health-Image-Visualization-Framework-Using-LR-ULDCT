@@ -1,0 +1,18 @@
+# PyTorch Checkpoints
+*.pth
+*.pt
+*.cpkt
+*.ckpt
+
+# Python / Jupyter artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Datasets and Outputs
+*.npy
+*.npz
+Denoised_Outputs/
+Denoised_COVID/
+Model_Ready_Data/
