@@ -1,0 +1,9 @@
+Checkpoint : ./srgan_outputs\checkpoint_epoch0085.pth
+Epoch      : 85
+Batches    : 2180 x 8
+
+PSNR     43.331378
+SSIM     0.991637
+LPIPS    0.006353
+MSE      0.000070
+MAE      0.003571
